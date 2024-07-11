@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-image: linear-gradient(14deg, #636bf6, #e6aa97);
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+h1 {
+  color: rgb(255, 236, 211);
+  font-size: 60px;
+}
+#container {
+  margin-top: 30px;
+}
+#cont {
+  margin-top: 20px;
+}
+p {
+  font-size: 20px;
+}
+.newJoke {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+}
+.newJoke button {
+  color: #4200be;
+  font-size: 20px;
+  padding: 5px;
+  border-radius: 12px;
+  background-color: #ddffaa;
+  border: none;
+}
+
+button:active {
+    scale: 1.1;
+background-color: #abef44;
+}
