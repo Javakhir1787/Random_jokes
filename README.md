@@ -1,1 +1,1 @@
-#By pressing button, you will get new joke.
+# By pressing button, you will get new joke.
